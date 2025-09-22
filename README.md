@@ -16,17 +16,12 @@ Description: The dataset contains 250000 instances and 11 features. The target v
 
 **Group member roles**
 
-IT24100700	Nawarathna H.M.P.P	  Handling Missing Data
-
-IT24100285	Wijethunga W.M.O.H	  Encoding Categorical Variables
-
-IT24102438	Gamage L.G.W.P		    Outlier Detection & Removal
-
-IT24101553	Wickramarachchi D.S	  Normalization / Scaling
-
-IT24101058	Wijerathna B.G.G.S	  Feature Engineering (Creation/Selection)
-
-IT24103125	Bandara W.M.P.G.L.D   Feature Engineering (Dimension Reduction)
+1. IT24100700	Nawarathna H.M.P.P - Handling Missing Data
+2. IT24100285	Wijethunga W.M.O.H - Encoding Categorical Variables
+3. IT24102438	Gamage L.G.W.P - Outlier Detection & Removal
+4. IT24101553	Wickramarachchi D.S - Normalization / Scaling
+5. IT24101058	Wijerathna B.G.G.S - Feature Engineering (Creation/Selection)
+6. IT24103125	Bandara W.M.P.G.L.D - Feature Engineering (Dimension Reduction)
 
 
 
